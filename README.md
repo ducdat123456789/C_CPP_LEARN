@@ -1,2 +1,2 @@
-# code-C-
+# code-C++
 c++
